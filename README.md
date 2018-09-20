@@ -112,11 +112,11 @@ Go to “All Tasks” and load via the Import functionality the Universal Task c
 
 Image1:
 
-![](images/image1.png)
+![](Images/image1.png)
 
 Image2:
 
-![](images/image2.png)
+![](Images/image2.png)
 
 # 4	Universal Task Configuration
 
@@ -124,7 +124,7 @@ Image2:
 
 Image3
 
-![](images/image3.png)
+![](Images/image3.png)
 
 **2.	Fill Out the Universal Task for SQL script to be scheduled:**
 
@@ -142,19 +142,19 @@ Note: in the script you can use Controller Variables.
 
 Image4
 
-![](images/image4.png)
+![](Images/image4.png)
 
 b)	Fill out the Universal Task and assign the script to it
 
 Image5
 
-![](images/image5.png)
+![](Images/image5.png)
 
 Credential for Universal Task:
 
 Image6
 
-![](images/image6.png)
+![](Images/image6.png)
 
 **Task Output:**
 
@@ -162,7 +162,7 @@ Because the getouput field is checked, the STDOUT contains the dbms_output of th
 
 Image7
 
-![](images/image7.png)
+![](Images/image7.png)
 
 **SQLSERVER example**
 
@@ -175,44 +175,44 @@ Note: in the script you can use Controller Variables.
 
 Image8
 
-![](images/image8.png)
+![](Images/image8.png)
 
 b)	Fill out the Universal Task and assign the script to it
 
 Image9
 
-![](images/image9.png)
+![](Images/image9.png)
 
 **Credential for Universal Task:**
 
 Image10
 
-![](images/image10.png)
+![](Images/image10.png)
 
 **Task Output:**
 Because the getouput field is checked, the STDOUT contains the dbms_output of the stored procedure
 
 Image11
 
-![](images/image11.png)
+![](Images/image11.png)
 
 **Description:**
 
 Image12
 
-![](images/image12.png)
+![](Images/image12.png)
 
 # 5	Test Cases
 The following basic test cases has been performed
 
 Image13
 
-![](images/image13.png)
+![](Images/image13.png)
 # 6	Document References
 This document references the following documents:
 
 Image14
-![](images/image14.png)
+![](Images/image14.png)
 
 
 
