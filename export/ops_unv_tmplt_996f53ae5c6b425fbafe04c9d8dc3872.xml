@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-09-06 07:54:09" unload_format="1" unload_table="ops_unv_tmplt" unload_version="6.4.7.0"><ops_unv_tmplt action="INSERT_OR_UPDATE"><credentials_var/><broadcast_cluster/><agent/><use_common_script>false</use_common_script><credentials/><icon_filesize>1558</icon_filesize><icon>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</icon><icon_date_created>2018-09-05 06:52:14</icon_date_created><description/><sys_updated_on>2018-09-06 07:52:11</sys_updated_on><agent_var/><icon_filename>FAVICON48x48px.png</icon_filename><sys_id>996f53ae5c6b425fbafe04c9d8dc3872</sys_id><output_return_text/><sys_updated_by>ops.admin</sys_updated_by><variable_prefix>var</variable_prefix><sys_created_on>2018-09-03 17:36:16</sys_created_on><script_windows>#!/usr/bin/python
+###################################################
+#
+#    Name: ut_execute_dbscript.py
+#
+#    Purpose: execute an oracle, sqlserver db script
+#
+#
+#    Prerequisites:
+#     - Universal Agent for Windows/Linux
+#     - Python 2.7.x
+#     - ODBC driver (https://docs.microsoft.com/de-de/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-2017)
+#     - yum -y install gcc gcc-c++ kernel-devel for pyodbc
+#     - requires on windows oracle instant client Version 18.3.0.0.0 http://www.oracle.com/technetwork/topics/winx64soft-089540.html
+#     - requires on windows Visual Studio VS 2013 https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads#bookmark-vs2013
+#     - check the odbc drivername in /etc/odbcinst.ini
+#     - Requires the Python modules via pip
+#     - pip install pyodbc
+#     - pip install datetime
+#     - pip install argparse
+#     - pip install logging
+#
+#     Version History:
+#
+#     1.0  Nils Buer    2018-09-05  initial version
+#          
+####################################################
+version = "1.0"
+
+import pyodbc
+import argparse
+import sys
+import datetime
+import os 
+import time
+import logging
+import cx_Oracle
+
+
+# 
+
+# -- logging settings DEBUG, INFO, WARNING, ERROR, CRITICAL
+
+logging.basicConfig(level=logging.${ops_var_loglevel}, format=' %(asctime)s - %(levelname)s - %(message)s')
+
+# -- Main Logic Function
+def main():
+    """calls the required functions to run the stored procedures"""
+    PrintVariables()                   
+    stored_procedure_type()          
+
+def PrintVariables():
+   logging.info(" Executing version " + version)   
+   logging.info(" Server: ${ops_var_server}")
+   logging.info(" database: ${ops_var_database}")
+   logging.info(" database port e.g. 1521 oracle, 3306 mysql, 1433 mssql: ${ops_var_database_port}")
+   logging.info(" username: ${_credentialUser('${ops_var_credentials}')}")
+   logging.info(" password: ${_credentialPwd('${ops_var_credentials}')}")
+   logging.info(" odbc driver name: ${ops_var_odbc_drivername}")
+   logging.info(" schema: ${ops_var_schema}")
+   logging.info(" Outputprocessing: ${ops_var_getoutput}")
+   logging.info(" Script to execute: ${ops_var_script}")
+   
+   
+def stored_procedure_type():
+    logging.info(" Connecting to ${ops_var_database_type} ...")
+    if("${ops_var_database_type}" == "oracle"):
+        execute_oracle_block()
+    elif ("${ops_var_database_type}" == "mysql"):
+        execute_mysql_block()
+    elif ("${ops_var_database_type}" == "sqlserver"):
+        execute_sqlserver_block()
+    else:
+        logging.info("ERROR &gt;&gt;  database_type: ${ops_var_database_type} needs to be one of: oracle, mysql, mssql")
+
+
+def execute_oracle_block():
+   dsn_tns = cx_Oracle.makedsn('${ops_var_server}', '${ops_var_database_port}', service_name='${ops_var_database}') #if needed, place an 'r' before any parameter in order to address any special character such as '\'.
+   cnxn = cx_Oracle.connect(user=r'${_credentialUser('${ops_var_credentials}')}', password='${_credentialPwd('${ops_var_credentials}')}', dsn=dsn_tns) #if needed, place an 'r' before any parameter in order to address any special character such as '\'. For example, if your user name contains '\', you'll need to place 'r' before the user name: user=r'User Name'
+   cursor = cnxn.cursor()
+   if("${ops_var_getoutput}" == "true"):
+     cursor.callproc("dbms_output.enable")
+   else:
+     logging.info(" No output processing")
+     
+   script = open(r'''${_scriptPath('${ops_var_script}')}''','r') 
+   script_data = script.read()
+
+   try:
+      cursor.execute(script_data)
+      logging.info(" script: ${ops_var_script} executed")
+   except cx_Oracle.DatabaseError as err:
+      logging.error('%s' % err)
+      exit(1)
+ 
+   if("${ops_var_getoutput}" == "true"):
+     statusVar = cursor.var(cx_Oracle.NUMBER)
+     lineVar = cursor.var(cx_Oracle.STRING)
+     while True:
+       cursor.callproc("dbms_output.get_line", (lineVar, statusVar))
+       if statusVar.getvalue() != 0:
+         break
+       print (lineVar.getvalue())
+   
+   cursor.close()
+   cnxn.close()
+   
+ 
+  
+def execute_sqlserver_block():
+   cnxn = pyodbc.connect('DRIVER={${ops_var_odbc_drivername}};SERVER=${ops_var_server};DATABASE=${ops_var_database};UID=${_credentialUser('${ops_var_credentials}')};PWD=${_credentialPwd('${ops_var_credentials}')}')
+   # cnxn = pyodbc.connect('DRIVER={Sql Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+ password)
+   cursor = cnxn.cursor()
+   script = open(r'''${_scriptPath('${ops_var_script}')}''','r') 
+   script_data = script.read()
+
+   try:
+      cursor.execute(script_data)
+      logging.info(" script: ${ops_var_script} executed")
+   except pyodbc.Error as err:
+     logging.error('%s' % err)
+     exit(1)
+   # print result
+   if("${ops_var_getoutput}" == "true"):
+     while True:
+      row = cursor.fetchone()
+      if not row:
+          break
+      print(row)
+   else:
+     logging.info(" No output processing")
+   
+   # Close and delete cursor
+   cursor.close()
+   # Close Connection
+   cnxn.close()
+
+   
+def execute_mysql_block():   
+   logging.error('MySql ist not yet implemented')
+   exit(1)
+   # cnxn = pyodbc.connect('DRIVER={${ops_var_odbc_drivername}};SERVER=${ops_var_server};DATABASE=${ops_var_database};UID=${_credentialUser('${ops_var_credentials}')};PWD=${_credentialPwd('${ops_var_credentials}')}')
+   # cursor = cnxn.cursor()
+   # code here
+   # cursor.close()
+   # cnxn.close()
+   
+# -- 
+
+main()</script_windows><credentials_var_check>false</credentials_var_check><agent_cluster_var/><agent_cluster_var_check>false</agent_cluster_var_check><agent_var_check>false</agent_var_check><sys_created_by>ops.admin</sys_created_by><output_return_nline>100</output_return_nline><output_return_sline>1</output_return_sline><exit_code_text/><runtime_dir/><output_type>1</output_type><desktop_interact>false</desktop_interact><output_return_type>1</output_return_type><script_unix>#!/usr/bin/python
+###################################################
+#
+#    Name: ut_execute_dbscript.py
+#
+#    Purpose: execute an oracle, sqlserver db script
+#
+#
+#    Prerequisites:
+#     - Universal Agent for Windows/Linux
+#     - Python 2.7.x
+#     - ODBC driver (https://docs.microsoft.com/de-de/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-2017)
+#     - yum -y install gcc gcc-c++ kernel-devel for pyodbc
+#     - requires on windows oracle instant client Version 18.3.0.0.0 http://www.oracle.com/technetwork/topics/winx64soft-089540.html
+#     - requires on windows Visual Studio VS 2013 https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads#bookmark-vs2013
+#     - check the odbc drivername in /etc/odbcinst.ini
+#     - Requires the Python modules via pip
+#     - pip install pyodbc
+#     - pip install datetime
+#     - pip install argparse
+#     - pip install logging
+#
+#     Version History:
+#
+#     1.0  Nils Buer    2018-09-05  initial version
+#          
+####################################################
+version = "1.0"
+
+import pyodbc
+import argparse
+import sys
+import datetime
+import os 
+import time
+import logging
+import cx_Oracle
+
+
+# 
+
+# -- logging settings DEBUG, INFO, WARNING, ERROR, CRITICAL
+
+logging.basicConfig(level=logging.${ops_var_loglevel}, format=' %(asctime)s - %(levelname)s - %(message)s')
+
+# -- Main Logic Function
+def main():
+    """calls the required functions to run the stored procedures"""
+    PrintVariables()                   
+    stored_procedure_type()          
+
+def PrintVariables():
+   logging.info(" Executing version " + version)   
+   logging.info(" Server: ${ops_var_server}")
+   logging.info(" database: ${ops_var_database}")
+   logging.info(" database port e.g. 1521 oracle, 3306 mysql, 1433 mssql: ${ops_var_database_port}")
+   logging.info(" username: ${_credentialUser('${ops_var_credentials}')}")
+   logging.info(" password: ${_credentialPwd('${ops_var_credentials}')}")
+   logging.info(" odbc driver name: ${ops_var_odbc_drivername}")
+   logging.info(" schema: ${ops_var_schema}")
+   logging.info(" Outputprocessing: ${ops_var_getoutput}")
+   logging.info(" Script to execute: ${ops_var_script}")
+   
+   
+def stored_procedure_type():
+    logging.info(" Connecting to ${ops_var_database_type} ...")
+    if("${ops_var_database_type}" == "oracle"):
+        execute_oracle_block()
+    elif ("${ops_var_database_type}" == "mysql"):
+        execute_mysql_block()
+    elif ("${ops_var_database_type}" == "sqlserver"):
+        execute_sqlserver_block()
+    else:
+        logging.info("ERROR &gt;&gt;  database_type: ${ops_var_database_type} needs to be one of: oracle, mysql, mssql")
+
+
+def execute_oracle_block():
+   dsn_tns = cx_Oracle.makedsn('${ops_var_server}', '${ops_var_database_port}', service_name='${ops_var_database}') #if needed, place an 'r' before any parameter in order to address any special character such as '\'.
+   cnxn = cx_Oracle.connect(user=r'${_credentialUser('${ops_var_credentials}')}', password='${_credentialPwd('${ops_var_credentials}')}', dsn=dsn_tns) #if needed, place an 'r' before any parameter in order to address any special character such as '\'. For example, if your user name contains '\', you'll need to place 'r' before the user name: user=r'User Name'
+   cursor = cnxn.cursor()
+   if("${ops_var_getoutput}" == "true"):
+     cursor.callproc("dbms_output.enable")
+   else:
+     logging.info(" No output processing")
+     
+   script = open(r'''${_scriptPath('${ops_var_script}')}''','r') 
+   script_data = script.read()
+
+   try:
+      cursor.execute(script_data)
+      logging.info(" script: ${ops_var_script} executed")
+   except cx_Oracle.DatabaseError as err:
+      logging.error('%s' % err)
+      exit(1)
+ 
+   if("${ops_var_getoutput}" == "true"):
+     statusVar = cursor.var(cx_Oracle.NUMBER)
+     lineVar = cursor.var(cx_Oracle.STRING)
+     while True:
+       cursor.callproc("dbms_output.get_line", (lineVar, statusVar))
+       if statusVar.getvalue() != 0:
+         break
+       print (lineVar.getvalue())
+   
+   cursor.close()
+   cnxn.close()
+   
+ 
+  
+def execute_sqlserver_block():
+   cnxn = pyodbc.connect('DRIVER={${ops_var_odbc_drivername}};SERVER=${ops_var_server};DATABASE=${ops_var_database};UID=${_credentialUser('${ops_var_credentials}')};PWD=${_credentialPwd('${ops_var_credentials}')}')
+   # cnxn = pyodbc.connect('DRIVER={Sql Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+ password)
+   cursor = cnxn.cursor()
+   script = open(r'''${_scriptPath('${ops_var_script}')}''','r') 
+   script_data = script.read()
+
+   try:
+      cursor.execute(script_data)
+      logging.info(" script: ${ops_var_script} executed")
+   except pyodbc.Error as err:
+     logging.error('%s' % err)
+     exit(1)
+   # print result
+   if("${ops_var_getoutput}" == "true"):
+     while True:
+      row = cursor.fetchone()
+      if not row:
+          break
+      print(row)
+   else:
+     logging.info(" No output processing")
+   
+   # Close and delete cursor
+   cursor.close()
+   # Close Connection
+   cnxn.close()
+
+   
+def execute_mysql_block():   
+   logging.error('MySql ist not yet implemented')
+   exit(1)
+   # cnxn = pyodbc.connect('DRIVER={${ops_var_odbc_drivername}};SERVER=${ops_var_server};DATABASE=${ops_var_database};UID=${_credentialUser('${ops_var_credentials}')};PWD=${_credentialPwd('${ops_var_credentials}')}')
+   # cursor = cnxn.cursor()
+   # code here
+   # cursor.close()
+   # cnxn.close()
+   
+# -- 
+
+main()</script_unix><output_return_file/><run_as_sudo>false</run_as_sudo><script/><agent_type>1</agent_type><script_type_windows>.py</script_type_windows><environment/><agent_cluster/><elevate_user>false</elevate_user><exit_code_output/><name>execute_dbscript</name><exit_codes>0</exit_codes><exit_code_processing>1</exit_code_processing><create_console>false</create_console><related_items_node><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-09-05 06:57:50</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>0306f9651ca04a8d9a1fd88a47064fc3</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:57:50</sys_created_on><field_value/><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>schema</label><int_field_max/><sequence>7</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField4</field_mapping><name>schema</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-09-05 06:57:24</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>0f6f4a5e97234cd0aebc2912c84b41ad</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:55:57</sys_created_on><field_value>ODBC Driver 17 for SQL Server</field_value><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>odbc_drivername</label><int_field_max/><sequence>6</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>choiceField2</field_mapping><name>odbc_drivername</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-09-05 06:55:13</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>2db86acccf474bf8896ce106e7add771</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:55:13</sys_created_on><field_value/><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>database_port</label><int_field_max/><sequence>4</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField3</field_mapping><name>database_port</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-09-04 14:11:27</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>328e5086aa304573aaa3b40c65c53b27</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-04 14:11:27</sys_created_on><field_value>1ba306b74e114d20a862dbd65bf9f1db</field_value><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>script</label><int_field_max/><sequence>1</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>scriptField1</field_mapping><name>script</name><field_regex/><field_type>6</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-09-05 06:54:54</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>33dbce61e1144214854358c0630cb781</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:54:54</sys_created_on><field_value/><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>server</label><int_field_max/><sequence>3</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField2</field_mapping><name>server</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-09-05 06:55:34</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>40db55dcf4774e49b08993a40fa56618</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:55:34</sys_created_on><field_value/><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>credentials</label><int_field_max/><sequence>5</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>credentialField1</field_mapping><name>credentials</name><field_regex/><field_type>5</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-09-05 07:06:06</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>acc24debcb2a43efb3d540eeba40df8a</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 07:06:06</sys_created_on><field_value>oracle</field_value><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>database_type</label><int_field_max/><sequence>9</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>choiceField3</field_mapping><name>database_type</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-09-05 06:58:07</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>b1ea76a8152240df8ee77234cabd4217</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:58:07</sys_created_on><field_value>false</field_value><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>getoutput</label><int_field_max/><sequence>8</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>booleanField1</field_mapping><name>getoutput</name><field_regex/><field_type>3</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-09-05 06:53:08</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>e18bafa2f9384adda457197c72c4c0ee</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:53:08</sys_created_on><field_value>INFO</field_value><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>loglevel</label><int_field_max/><sequence>2</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>choiceField1</field_mapping><name>loglevel</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2018-09-03 17:36:42</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>f49bb58152fb41e984181852ac83fbb7</sys_id><require_if_field_value/><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-03 17:36:42</sys_created_on><field_value/><sys_created_by>ops.admin</sys_created_by><int_field_min/><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>database name</label><int_field_max/><sequence>0</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField1</field_mapping><name>database</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>e18bafa2f9384adda457197c72c4c0ee</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>2d1ed1fefe52467e80b693b889976efa</sys_id><sequence>2</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:53:26</sys_created_on><field_value_label>WARNING</field_value_label><field_value>WARNING</field_value><sys_updated_on>2018-09-05 06:53:26</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>acc24debcb2a43efb3d540eeba40df8a</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>577cd9ad2d4b4b6baacab29f9e6f4361</sys_id><sequence>1</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 07:06:18</sys_created_on><field_value_label>mysql</field_value_label><field_value>mysql</field_value><sys_updated_on>2018-09-05 07:06:18</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>e18bafa2f9384adda457197c72c4c0ee</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>5826ac0ecdcb49278aa47754dea37b21</sys_id><sequence>1</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:53:19</sys_created_on><field_value_label>DEBUG</field_value_label><field_value>DEBUG</field_value><sys_updated_on>2018-09-05 06:53:19</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>0f6f4a5e97234cd0aebc2912c84b41ad</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>872cc0e2270d4726bbd39d589f027bac</sys_id><sequence>2</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:56:45</sys_created_on><field_value_label>MySQL</field_value_label><field_value>MySQL</field_value><sys_updated_on>2018-09-05 06:56:45</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>0f6f4a5e97234cd0aebc2912c84b41ad</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>979f23bac72840f683572d4bdf3f4118</sys_id><sequence>0</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:56:13</sys_created_on><field_value_label>ODBC Driver 17 for SQL Server</field_value_label><field_value>ODBC Driver 17 for SQL Server</field_value><sys_updated_on>2018-09-05 06:56:13</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>e18bafa2f9384adda457197c72c4c0ee</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>9f5edf2bdc8d45c0928e64582307293c</sys_id><sequence>4</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:54:26</sys_created_on><field_value_label>ERROR</field_value_label><field_value>ERROR</field_value><sys_updated_on>2018-09-05 06:54:26</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>acc24debcb2a43efb3d540eeba40df8a</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>aa42b5910a5544e5858f1afc6f311859</sys_id><sequence>0</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 07:06:12</sys_created_on><field_value_label>oracle</field_value_label><field_value>oracle</field_value><sys_updated_on>2018-09-05 07:06:12</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>acc24debcb2a43efb3d540eeba40df8a</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>bd9e78af901a4c91bf115ca2a82482f9</sys_id><sequence>2</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 07:06:26</sys_created_on><field_value_label>sqlserver</field_value_label><field_value>sqlserver</field_value><sys_updated_on>2018-09-05 07:06:26</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>e18bafa2f9384adda457197c72c4c0ee</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>c91e92cad6f94c97b23162fa66e7e972</sys_id><sequence>3</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:54:19</sys_created_on><field_value_label>CRITICAL</field_value_label><field_value>CRITICAL</field_value><sys_updated_on>2018-09-05 06:54:19</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>0f6f4a5e97234cd0aebc2912c84b41ad</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>cfc2ec87163d42139515306e229796d4</sys_id><sequence>3</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:57:13</sys_created_on><field_value_label>PostgreSQL</field_value_label><field_value>PostgreSQL</field_value><sys_updated_on>2018-09-05 06:57:13</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>0f6f4a5e97234cd0aebc2912c84b41ad</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>ded9b097c7cc48b28fa7cfc43ea04796</sys_id><sequence>1</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:56:37</sys_created_on><field_value_label>Sql Server</field_value_label><field_value>Sql Server</field_value><sys_updated_on>2018-09-05 06:56:37</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>e18bafa2f9384adda457197c72c4c0ee</field_id><use_field_value_for_label>true</use_field_value_for_label><sys_id>e188778433dc4cc8b3004ee50d10887d</sys_id><sequence>0</sequence><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-05 06:53:14</sys_created_on><field_value_label>INFO</field_value_label><field_value>INFO</field_value><sys_updated_on>2018-09-05 06:53:14</sys_updated_on><sys_created_by>ops.admin</sys_created_by><universal_template_id>996f53ae5c6b425fbafe04c9d8dc3872</universal_template_id></ops_unv_tmplt_field_choice></related_items_node></ops_unv_tmplt></unload>
