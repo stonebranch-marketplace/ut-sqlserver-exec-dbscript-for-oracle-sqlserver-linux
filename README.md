@@ -32,7 +32,7 @@ Some details about the universal task to monitor a value in a database column
 # 3	Installation
 # 3.1	Software Requirements for Windows Agent
 
-**Universal Template name: UT_EXEC_DBSCRPT_FOR_ORACLE_SQLSERVER**
+**Universal Template name: ut-sqlserver-exec-dbscript-for-orcale-sqlserver-windows**
 
 Related UAC XML Files for template and task: [1]
 
