@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-09-06 07:54:09" unload_format="1" unload_table="ops_script" unload_version="6.4.7.0"><ops_script action="INSERT_OR_UPDATE"><resolve_variables>true</resolve_variables><opswise_groups/><description/><sys_updated_on>2018-09-06 07:22:30</sys_updated_on><version>11</version><script_name>oracle_block</script_name><content>Begin
+ GetPopulation ('Greece');
+ dbms_output.put_line ('Dies ist ein Test!');
+END;</content><sys_id>1ba306b74e114d20a862dbd65bf9f1db</sys_id><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-04 14:11:24</sys_created_on><checksum/><script_type>5</script_type><sys_created_by>ops.admin</sys_created_by><related_items_node/></ops_script></unload>

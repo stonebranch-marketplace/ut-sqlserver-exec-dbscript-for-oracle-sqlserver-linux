@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-09-06 07:54:09" unload_format="1" unload_table="ops_script" unload_version="6.4.7.0"><ops_script action="INSERT_OR_UPDATE"><resolve_variables>true</resolve_variables><opswise_groups/><description/><sys_updated_on>2018-09-06 06:58:13</sys_updated_on><version>2</version><script_name>sqlserver_block</script_name><content>BEGIN  
+  dbo.listtask_all 
+END</content><sys_id>6848fd6c2085407aac5e699e60329410</sys_id><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-06 06:48:35</sys_created_on><checksum/><script_type>5</script_type><sys_created_by>ops.admin</sys_created_by><related_items_node/></ops_script></unload>
